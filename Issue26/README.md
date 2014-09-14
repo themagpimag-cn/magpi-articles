@@ -5,9 +5,9 @@
 实际完成日期：
 
 参与人员：
-Lee2011
-nofacer
-superbool
+* Lee2011
+* nofacer
+* superbool
 
 ----------------------------------
 我们的目标是将每一期的 MagPi 翻译为中文版，
