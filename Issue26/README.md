@@ -14,13 +14,13 @@
 
 标题 | 页码 | 字数 | 原作者 | 状态
 |---|---:|---:|---|---|
-EDITORIAL | 2 | 308 | Ash Stone | 翻译中 
+EDITORIAL | 2 | 308 | Ash Stone | 待校对
 MAGIC WAND | 4-6 | 902 | Michael Giles | 
 PI CANVAS DIGITAL ART DISPLAY | 8-10 | 832 | John Mahorney | 待校对 
 SMARTDRIVE ROBOT | 12-13 | 654 | Rishi Deshpande | 翻译中 
 MASHBERRY | 14-17 | 1100 | Sebastian Duell | 
 PIBOT | 18-21 | 1514 | Harry Gee | 翻译中
-RASPBERRY PI MODEL B+ | 22-24 | 1318 | Aaron Shaw | 翻译中
+RASPBERRY PI MODEL B+ | 22-24 | 1318 | Aaron Shaw | 待校对
 BITSCOPE | 26-28 | 898 | Karl-Ludwig Butte | 
 VOICE OVER IP SERVER | 30-33 | 1248 | Walberto Abad | 翻译中
 FUZE BASIC | 36-42 | 2825 | Jon Silvera | 
