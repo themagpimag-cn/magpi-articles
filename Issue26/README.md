@@ -17,7 +17,7 @@
 EDITORIAL | 2 | 308 | Ash Stone | 待校对
 MAGIC WAND | 4-6 | 902 | Michael Giles | 
 PI CANVAS DIGITAL ART DISPLAY | 8-10 | 832 | John Mahorney | 待校对 
-SMARTDRIVE ROBOT | 12-13 | 654 | Rishi Deshpande | 翻译中 
+SMARTDRIVE ROBOT | 12-13 | 654 | Rishi Deshpande | 待校对 
 MASHBERRY | 14-17 | 1100 | Sebastian Duell | 
 PIBOT | 18-21 | 1514 | Harry Gee | 翻译中
 RASPBERRY PI MODEL B+ | 22-24 | 1318 | Aaron Shaw | 待校对
