@@ -22,7 +22,7 @@ MASHBERRY | 14-17 | 1100 | Sebastian Duell |
 PIBOT | 18-21 | 1514 | Harry Gee | 翻译中
 RASPBERRY PI MODEL B+ | 22-24 | 1318 | Aaron Shaw | 待校对
 BITSCOPE | 26-28 | 898 | Karl-Ludwig Butte | 
-VOICE OVER IP SERVER | 30-33 | 1248 | Walberto Abad | 翻译中
+VOICE OVER IP SERVER | 30-33 | 1248 | Walberto Abad | 待校对
 FUZE BASIC | 36-42 | 2825 | Jon Silvera | 
 HAVE YOUR SAY | 44 | 93 | NA |  
 
