@@ -24,7 +24,7 @@ RASPBERRY PI MODEL B+ | 22-24 | 1318 | Aaron Shaw | 待校对
 BITSCOPE | 26-28 | 898 | Karl-Ludwig Butte | 
 VOICE OVER IP SERVER | 30-33 | 1248 | Walberto Abad | 待校对
 FUZE BASIC | 36-42 | 2825 | Jon Silvera | 
-HAVE YOUR SAY | 44 | 93 | NA |  
+HAVE YOUR SAY | 44 | 93 | NA | 翻译中 
 
 ----------------------------------
 > 我们的目标是将每一期的 MagPi 翻译为中文版，  
